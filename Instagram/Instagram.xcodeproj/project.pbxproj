@@ -17,16 +17,15 @@
 		3FE0839B26CC152C00AD20E7 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0839A26CC152C00AD20E7 /* CameraViewController.swift */; };
 		3FE0839E26CC153600AD20E7 /* NotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0839D26CC153600AD20E7 /* NotificationViewController.swift */; };
 		3FE083A126CC154100AD20E7 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083A026CC154100AD20E7 /* ProfileViewController.swift */; };
-		3FE083A426CC166A00AD20E7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3FE083A326CC166A00AD20E7 /* GoogleService-Info.plist */; };
 		3FE083BD26CC17B000AD20E7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083BC26CC17B000AD20E7 /* LoginViewController.swift */; };
 		3FE083C126CC17BA00AD20E7 /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083C026CC17BA00AD20E7 /* RegistrationViewController.swift */; };
 		3FE083C426CC17D000AD20E7 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083C326CC17D000AD20E7 /* PostViewController.swift */; };
 		3FE083C726CC17DA00AD20E7 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083C626CC17DA00AD20E7 /* EditProfileViewController.swift */; };
 		3FE083CA26CC17E400AD20E7 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083C926CC17E400AD20E7 /* ListViewController.swift */; };
-		3FE083CD26CC17F500AD20E7 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083CC26CC17F500AD20E7 /* SearchViewController.swift */; };
 		3FE083D026CC180200AD20E7 /* SearchResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083CF26CC180200AD20E7 /* SearchResultViewController.swift */; };
 		3FE083D326CC180E00AD20E7 /* PostEditorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083D226CC180E00AD20E7 /* PostEditorViewController.swift */; };
 		3FE083D626CC181A00AD20E7 /* PublishPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE083D526CC181A00AD20E7 /* PublishPostViewController.swift */; };
+		3FE083D926CC1BF200AD20E7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3FE083D826CC1BF200AD20E7 /* GoogleService-Info.plist */; };
 		ECA9F8EA7E66D1D42310B8EC /* Pods_Instagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759EB8F0C982411E2D0C23EB /* Pods_Instagram.framework */; };
 /* End PBXBuildFile section */
 
@@ -44,16 +43,15 @@
 		3FE0839A26CC152C00AD20E7 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		3FE0839D26CC153600AD20E7 /* NotificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationViewController.swift; sourceTree = "<group>"; };
 		3FE083A026CC154100AD20E7 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
-		3FE083A326CC166A00AD20E7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../InstagramApp/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		3FE083BC26CC17B000AD20E7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		3FE083C026CC17BA00AD20E7 /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
 		3FE083C326CC17D000AD20E7 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 		3FE083C626CC17DA00AD20E7 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 		3FE083C926CC17E400AD20E7 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
-		3FE083CC26CC17F500AD20E7 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		3FE083CF26CC180200AD20E7 /* SearchResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultViewController.swift; sourceTree = "<group>"; };
 		3FE083D226CC180E00AD20E7 /* PostEditorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostEditorViewController.swift; sourceTree = "<group>"; };
 		3FE083D526CC181A00AD20E7 /* PublishPostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublishPostViewController.swift; sourceTree = "<group>"; };
+		3FE083D826CC1BF200AD20E7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		759EB8F0C982411E2D0C23EB /* Pods_Instagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Instagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C27864ABF64715AE4D14C48B /* Pods-Instagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram.release.xcconfig"; path = "Target Support Files/Pods-Instagram/Pods-Instagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,7 +127,7 @@
 		3FE0838C26CC14D500AD20E7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3FE083A326CC166A00AD20E7 /* GoogleService-Info.plist */,
+				3FE083D826CC1BF200AD20E7 /* GoogleService-Info.plist */,
 				3FE0837126CC138E00AD20E7 /* AppDelegate.swift */,
 				3FE0837326CC138E00AD20E7 /* SceneDelegate.swift */,
 			);
@@ -180,7 +178,6 @@
 				3FE083C326CC17D000AD20E7 /* PostViewController.swift */,
 				3FE083C626CC17DA00AD20E7 /* EditProfileViewController.swift */,
 				3FE083C926CC17E400AD20E7 /* ListViewController.swift */,
-				3FE083CC26CC17F500AD20E7 /* SearchViewController.swift */,
 				3FE083CF26CC180200AD20E7 /* SearchResultViewController.swift */,
 				3FE083D226CC180E00AD20E7 /* PostEditorViewController.swift */,
 				3FE083D526CC181A00AD20E7 /* PublishPostViewController.swift */,
@@ -265,7 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FE0837E26CC139000AD20E7 /* LaunchScreen.storyboard in Resources */,
-				3FE083A426CC166A00AD20E7 /* GoogleService-Info.plist in Resources */,
+				3FE083D926CC1BF200AD20E7 /* GoogleService-Info.plist in Resources */,
 				3FE0837B26CC139000AD20E7 /* Assets.xcassets in Resources */,
 				3FE0837926CC138E00AD20E7 /* Main.storyboard in Resources */,
 			);
@@ -330,7 +327,6 @@
 				3FE083C426CC17D000AD20E7 /* PostViewController.swift in Sources */,
 				3FE0837426CC138E00AD20E7 /* SceneDelegate.swift in Sources */,
 				3FE083D026CC180200AD20E7 /* SearchResultViewController.swift in Sources */,
-				3FE083CD26CC17F500AD20E7 /* SearchViewController.swift in Sources */,
 				3FE083BD26CC17B000AD20E7 /* LoginViewController.swift in Sources */,
 				3FE083D326CC180E00AD20E7 /* PostEditorViewController.swift in Sources */,
 				3FE083A126CC154100AD20E7 /* ProfileViewController.swift in Sources */,
